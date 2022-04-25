@@ -1,0 +1,11 @@
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\bin\Debug\CRUDWinForms.exe.config
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\bin\Debug\CRUDWinForms.exe
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\bin\Debug\CRUDWinForms.pdb
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinForms.Properties.Resources.resources
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Views.MainView.resources
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Views.PetView.resources
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinForms.csproj.GenerateResource.cache
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinForms.csproj.CoreCompileInputs.cache
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinForms.exe
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinForms.pdb
+C:\Users\MRASPHALTO\Desktop\la meta es C crucru\CRUDWinFormsMVP\obj\Debug\CRUDWinForms.csprojAssemblyReference.cache
